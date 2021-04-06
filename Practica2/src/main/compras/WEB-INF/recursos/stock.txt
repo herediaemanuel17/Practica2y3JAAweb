@@ -1,0 +1,6 @@
+Chocolatines,1.05
+Chupetines,2.30
+Galletitas,5.3
+Caramelos,9.6
+Chicles,4.5
+Pastillas,40.7
