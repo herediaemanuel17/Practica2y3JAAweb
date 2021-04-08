@@ -5,17 +5,17 @@
     <welcome-file>login.html</welcome-file>
   </welcome-file-list>
 
-  
   <context-param>
   	<param-name>stock</param-name>
   	<param-value>/WEB-INF/recursos/stock.txt</param-value>
   </context-param>
   
-  <!-- PArametros de inicializacion del servelet LoginUSr -->
+  <!-- PArametros de inicializacion del servelet LoginUSr 
   <context-param>
   	<param-name>usuario1</param-name>
   	<param-value>contrasenia1</param-value>
   </context-param>
+  -->
 
 </web-app>
 
